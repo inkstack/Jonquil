@@ -1,2 +1,2 @@
-# Mapinguari
-Generate random number using Javascript.
+# [Mapinguari](https://en.wikipedia.org/wiki/Mapinguari)
+Generate random numbers using Javascript.
